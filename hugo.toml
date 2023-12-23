@@ -1,4 +1,10 @@
-baseURL = 'https://ayzatyh.github.io/newsDemo.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '兰州美食'
 theme = 'ananke'
+publishDir = "docs"
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
