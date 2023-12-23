@@ -2,9 +2,3 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = '兰州美食'
 theme = 'ananke'
-publishDir = "docs"
-[markup]
-defaultMarkdownHandler = "goldmark"
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true
