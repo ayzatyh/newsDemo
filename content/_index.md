@@ -1,6 +1,6 @@
 ---
 title: "兰州美食"
-description: "来金色兰州，体验舌尖上的甘肃"
+description: "来金色兰州，体验舌尖上的甘肃   制作人：艾依扎提·买买提吐尔地 扎西旺姆"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.000'
 cascade:
